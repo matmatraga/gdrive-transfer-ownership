@@ -78,5 +78,3 @@ async function transferOwnership(fileId, newOwnerEmail) {
         }
     }
 }
-
-transferOwnership('1yIsH1YgFKMepsKNtB_Q8_kt2y0XSZtcq', 'matthewmondoy.raga@gmail.com');
